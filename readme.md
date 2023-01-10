@@ -1,4 +1,5 @@
 # Welcome to CS180! 
+# *This repository is a clone of the CS180 course repository. This is my personal repo.*
 ## Introduction
 Welcome to the CS180 course repository! We are happy to have you taking this class, and we hope that you're as excited about the up-and-coming field of data science as we are. In this course there are two types of labs: python and data science labs. One average, we will have two labs per week, always due on Saturday night. In addition to the python and data science labs, we will have periodic data literacy quizzes. These quizzes are to test your ability to analyze and interpret infographics, and will challenge your ability to critically think about information presented to you.
 
