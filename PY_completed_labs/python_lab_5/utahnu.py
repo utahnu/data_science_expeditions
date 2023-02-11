@@ -3,7 +3,8 @@ import argparse
 def main(inputString):
     # Write the code to reverse the string here
     # Make sure that your terminal output matches the terminal output of the example given on the instructions.
-    
+    backwards_string = inputString [::-1]
+    print(backwards_string)
     return None
 
 if __name__ == "__main__":
